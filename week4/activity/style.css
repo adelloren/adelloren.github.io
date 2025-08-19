@@ -1,0 +1,57 @@
+.box{ 
+    background-color: rgb(207, 29, 163);
+    margin: 0;
+    padding: 0px;
+    width: 100%;
+    height: 100px;
+}
+
+.box2 { 
+    background-color: rgb(212, 149, 185);
+    
+
+}
+.box3 { 
+    background-color: rgb(17, 62, 59); 
+
+}
+.container {
+    display: flex;
+
+}
+.box4 { 
+    background-color: rgb(179, 130, 78);
+    width: 33.33%;
+}
+.box5 { 
+    background-color: rgb(198, 85, 85);
+    width: 66.66%;
+}
+.container2 {
+    display: flex;
+}
+.box6 { 
+    background-color: rgb(120, 216, 120);
+
+}
+.box8 { 
+    background-color: rgb(153, 114, 186);
+    width: 66.66%;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+
+}
+.container3 {
+ display: flex;
+
+}
+.box7 { 
+    background-color: rgb(171, 171, 69);
+
+}
+
+.section{
+    width:33.33%;
+
+}
